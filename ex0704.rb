@@ -1,0 +1,2 @@
+print "ようこそ"
+print 'Welcome'

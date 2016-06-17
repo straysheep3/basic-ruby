@@ -1,0 +1,7 @@
+require "date"
+
+puts Date.new( 2012, 5, 5).to_s
+
+# 変数名が付けてある場合
+hinamatsuri = Date.new( 2012, 3, 3)
+puts hinamatsuri.to_s
